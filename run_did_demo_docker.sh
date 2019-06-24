@@ -7,8 +7,8 @@ COMPOSE_FILE="${0%/*}/nucypher/dev/docker/8-federated-ursulas-and-ipfs-host.yml"
 DEMO_DIR="/code/examples/did_demo/"
 
 # add PoC files to NuCypher repository
-cp 8-federated-ursulas-and-ipfs-host.yml nucypher/dev/docker/
-cp -r did_demo nucypher/examples/
+cp poc_src/8-federated-ursulas-and-ipfs-host.yml nucypher/dev/docker/
+cp -r poc_src/did_demo nucypher/examples/
 
 # run some ursulas
 docker-compose -f $COMPOSE_FILE up -d
