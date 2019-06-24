@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-
 set -e
 echo "Starting Up PoC..."
 
@@ -18,7 +17,7 @@ sleep 5
 
 # Run demo
 echo "Starting Demo"
-docker-compose -f $COMPOSE_FILE run -w $DEMO_DIR nucypher-dev python did-demo.py 172.28.1.3:11500 False
+docker-compose -f $COMPOSE_FILE run -w $DEMO_DIR nucypher-dev python did-demo.py 172.28.1.3:11500 True
 
 # tear it down
 docker-compose -f $COMPOSE_FILE stop
