@@ -1,0 +1,65 @@
+------------------------------------------------------
+------------------------START-------------------------
+
+WeServeEveryone Enrico Clinic
+1111 First Street California
+111-111-11111   Fax: 111-111-1111 	Chart Summary
+
+------------------------------------------------------
+
+Patient Information
+
+Name: Alice Latte 	Home Phone: 444-444-4444
+Address: 4444 Coffee Ave
+Patient ID: 0000-44444
+Birth Date: 04/04/1950
+Gender: Female 	Marital Status: Divorced
+
+------------------------------------------------------
+
+History
+
+Diabetes Management
+Hyperglycemic Symptoms
+Polyuria: no
+Polydipsia: no
+Blurred vision: no
+
+Sympathomimetic Symptoms
+Diaphoresis: no
+Agitation: no
+Tremor: no
+Palpitations: no
+Insomnia: no
+
+Neuroglycopenic Symptoms
+Confusion: no
+Lethargy: no
+Somnolence: no
+Amnesia: no
+Stupor: no
+Seizures: no
+Review of Systems
+
+------------------------------------------------------
+
+Tests
+
+(1) Metabolic Panel(ML-03CHEM)
+ALK PHOS 	72 	35-100
+BG  RANDOM 	125  mg/dl 	70-125
+BUN 	16  mg/dl 	7-25
+CALCIUM  	9.6  mg/dl 	8.2-10.2
+CHLORIDE   	101  mmol/l  	96-109
+CO2 	27  mmol/l  	23-29
+CREATININE  	0.7  mg/dl    	0.6-1.2
+PO4  	2.9  mg/dl  	2.5-4.5
+POTASSIUM  	4.5  mmol/l  	3.5-5.3
+SGOT  (AST)  	31  U/L   	0-40
+BILI  TOTAL 	0.7  mg/dl 	0.0-1.3
+URIC  ACID   	4.8  mg/dl 	3.4-7.0
+LDH,  TOTAL     	136  IU/L   	0-200
+SODIUM 	135  mmol/l 	135-145
+
+-------------------------END--------------------------
+------------------------------------------------------

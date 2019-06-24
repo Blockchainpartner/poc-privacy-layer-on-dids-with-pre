@@ -1,0 +1,3 @@
+[submodule "nucypher"]
+	path = nucypher
+	url = https://github.com/nucypher/nucypher.git
