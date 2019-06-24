@@ -1,9 +1,9 @@
 version: '3'
 
-# runs 8 ursulas, each on a different "host"
+# runs an ipfs host and 8 ursulas, each on a different "host"
 # similar to real world conditions
 
-# ex. docker-compose -f 8-federated-ursulas.yml up
+# ex. docker-compose -f 8-federated-ursulas-and-ipfs-host.yml up
 
 services:
   ipfs-host:
