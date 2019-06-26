@@ -2,7 +2,7 @@
 
 This proof of concept aims to highlight the suitability of proxy re-encryption frameworks like [NuCypher](https://www.nucypher.com/) to new decentralized identity schemes.
 
-It is extensively documented in a [a Medium post](https://medium.com/@teamtech/).
+It is extensively documented in a [a Medium post](https://medium.com/@teamtech/decentralized-identity-granting-privacy-with-proxy-re-encryption-e0bf68ad465c).
 
 ![Architecture of the proof of concept](./design.svg)
 
